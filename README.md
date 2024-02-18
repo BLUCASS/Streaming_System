@@ -15,7 +15,7 @@
 ### 💻 REQUIREMENTS
 - [Python3](https://docs.python.org/3/)
 - [VisualCode](https://code.visualstudio.com/docs)
--[SQLAlchemy](https://docs.sqlalchemy.org/en/20/)
+- [SQLAlchemy](https://docs.sqlalchemy.org/en/20/)
 
 ### 🚀 HOW TO RUN THE PROJECT
 ```bash
