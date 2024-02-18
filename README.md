@@ -46,3 +46,6 @@ git push file-origin project-name / local
 <img alt="input salary" src="streaming_1.PNG"><br>
 <img alt="payroll" src="streaming_2.PNG"><br>
 <img alt="detailed fees" src="streaming_3.PNG"><br>
+<img alt="detailed fees" src="streaming_model.png"><br>
+<img alt="detailed fees" src="streaming_class_media.png"><br>
+<img alt="detailed fees" src="streaming_class_menu.png"><br>
