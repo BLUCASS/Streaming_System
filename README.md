@@ -43,9 +43,9 @@ git push file-origin project-name / local
 ```
 
 ### 📸 SCREENSHOTS
-<img alt="input salary" src="streaming_1.PNG"><br>
-<img alt="payroll" src="streaming_2.PNG"><br>
-<img alt="detailed fees" src="streaming_3.PNG"><br>
-<img alt="detailed fees" src="streaming_model.png"><br>
-<img alt="detailed fees" src="streaming_class_media.png"><br>
-<img alt="detailed fees" src="streaming_class_menu.png"><br>
+<img alt="creating user" src="streaming_1.PNG"><br>
+<img alt="choosing a movie" src="streaming_2.PNG"><br>
+<img alt="upgraded plan" src="streaming_3.PNG"><br>
+<img alt="model file" src="streaming_model.png"><br>
+<img alt="class media" src="streaming_class_media.png"><br>
+<img alt="class menu" src="streaming_class_menu.png"><br>
